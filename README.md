@@ -78,6 +78,7 @@
 1. [1번 사이트](https://blog.naver.com/furlong49/221191482769)
 2. [2번 사이트](https://steemit.com/kr/@twinbraid/6ax29p)
 3. [3번 사이트](https://blog.naver.com/3345/220645089468)
+4. [특수문자 모음](https://wepplication.github.io/tools/charMap/#specialChar)
 
 ### 개발
 
